@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Science – Ars Technica</title>
+	
+	<link>https://arstechnica.com</link>
+	<description>Serving the Technologist for more than a decade. IT news, reviews, and analysis.</description>
+	<lastBuildDate>Mon, 27 Apr 2020 22:34:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.13</generator>
+
+<image>
+	<url>https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png</url>
+	<title>Science – Ars Technica</title>
+	<link>https://arstechnica.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/arstechnica/science" /><feedburner:info uri="arstechnica/science" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsalloy.com/?rss=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.newsalloy.com/subrss3.gif">Subscribe with NewsAlloy</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://download.attensa.com/app/get_attensa.html?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.attensa.com/blogs/attensa/WindowsLiveWriter/BadgeredintoBadges_10C02/attensa_feed_button5.gif">Subscribe with Attensa for Outlook</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.flurry.com/pushRssFeed.do?r=fb&amp;url=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.flurry.com/images/flurry_rss_logo2.gif">Subscribe with Flurry</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Farstechnica%2Fscience" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly><item>
+		<title>Navy releases three videos that showcase “unidentified” objects</title>
+		<link>https://arstechnica.com/?p=1671297</link>
+		<pubDate>Mon, 27 Apr 2020 15:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1671297</guid>
+		<description><![CDATA["DOD is releasing the videos in order to clear up any misconceptions by the public."]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/Gimbal_-video.-0-32-screenshot.png" alt='A screenshot from a 2015 video that shows an "unidentified aerial phenomena."'><p class="caption" style="font-size:0.8em">A screenshot from a 2015 video that shows an "unidentified aerial phenomena." (credit: U.S. Navy)</p>  </figure><div><a name="page-1"></a></div>
+<p>For years, UFO enthusiasts have excitedly shared three videos captured by US Navy pilots that show unidentified aerial phenomena. The videos, captured in November 2004 and twice in January 2015, were each publicly leaked a few years after their capture. They have been publicized <a href="https://en.wikipedia.org/wiki/Unidentified:_Inside_America%27s_UFO_Investigation">on the History Channel</a> and elsewhere.</p>
+<span class="ars-files-logo right"></span>
+<p>On Monday, the US Department of Defense decided to officially release the three videos, which can be <a href="https://www.navair.navy.mil/foia/documents">downloaded here</a>. Before releasing the "Historical Navy Videos," the military determined that each did not reveal any "sensitive capabilities or systems," nor would releasing them "impinge on any subsequent investigations of military air space incursions" by unidentified objects.</p>
+<p>"DOD is releasing the videos in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos," the <a href="https://www.defense.gov/Newsroom/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/">statement reads</a>. "The aerial phenomena observed in the videos remain characterized as 'unidentified.'"</p></div><p><a href="https://arstechnica.com/?p=1671297#p3">Read 4 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1671297&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Wot9yYjphOU:G4IiLQbnRq4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=Wot9yYjphOU:G4IiLQbnRq4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Wot9yYjphOU:G4IiLQbnRq4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=Wot9yYjphOU:G4IiLQbnRq4:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Wot9yYjphOU:G4IiLQbnRq4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Wot9yYjphOU:G4IiLQbnRq4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Starship chilled. Starship pressurized. And for the first time, it didn’t explode</title>
+		<link>https://arstechnica.com/?p=1671248</link>
+		<pubDate>Mon, 27 Apr 2020 12:54:39 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1671248</guid>
+		<description><![CDATA[Now the company will mount a single engine to the Starship prototype.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2019/09/Photo-Sep-29-1-29-32-AM-800x533.jpg" alt="Here is Starship Mk 1 as revealed on September 28, 2019."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2019/09/Photo-Sep-29-1-29-32-AM.jpg" class="enlarge-link" data-height="1365" data-width="2048">Enlarge</a> <span class="sep">/</span> Here is Starship Mk 1 as revealed on September 28, 2019. (credit: Trevor Mahlmann for Ars)</p>  </figure><div><a name="page-1"></a></div>
+<p>Late on Sunday night, SpaceX completed a critical cryogenic test of a Starship prototype at its launch site in South Texas. The successful test, during which chilled nitrogen was loaded into pressurized fuel tanks, was <a href="https://twitter.com/elonmusk/status/1254632509863866368">reported on Twitter</a> by SpaceX founder Elon Musk.</p>
+<p>The vehicle, dubbed SN4—which stands for Serial Number 4—was pressurized to 4.9 bar, or 4.9 times the atmospheric pressure at the surface of the Earth. This pressure is not as high as Starship's fuel tanks and plumbing system are designed to withstand, but it is enough for a basic flight.</p>
+<p>This marks an important moment in the Starship program. Since November 2019, the company <a href="https://arstechnica.com/science/2020/04/spacex-loses-its-third-starship-prototype-during-a-cryogenic-test/">has lost</a> three full-scale Starship prototypes during cryogenic and pressure tests. The most recent failure came on April 3. This is the first time a vehicle has survived pressure testing to advance to further work. Such tests are designed to ensure the integrity of a rocket's fueling system prior to lighting an engine.</p></div><p><a href="https://arstechnica.com/?p=1671248#p3">Read 5 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1671248&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=wR8tSNpD_rE:Kd47IdXYSW4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=wR8tSNpD_rE:Kd47IdXYSW4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=wR8tSNpD_rE:Kd47IdXYSW4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=wR8tSNpD_rE:Kd47IdXYSW4:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=wR8tSNpD_rE:Kd47IdXYSW4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=wR8tSNpD_rE:Kd47IdXYSW4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>A puzzling past sea level rise might have its missing piece</title>
+		<link>https://arstechnica.com/?p=1671012</link>
+		<pubDate>Sun, 26 Apr 2020 12:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Scott K. Johnson]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[carbon dating]]></category>
+		<category><![CDATA[ice sheets]]></category>
+		<category><![CDATA[paleoclimate]]></category>
+		<category><![CDATA[sea level rise]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1671012</guid>
+		<description><![CDATA[About 14,650 years ago, sea level jumped 12 meters in just a few centuries.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/svalbard_omer_bozkurt-800x529.jpg" alt="Over 14,000 years ago, an ice sheet was perched on Svalbard."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/svalbard_omer_bozkurt.jpg" class="enlarge-link" data-height="677" data-width="1024">Enlarge</a> <span class="sep">/</span> Over 14,000 years ago, an ice sheet was perched on Svalbard. (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/omerbozkurt/12012328496/">Omer Bozkurt</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>The rapid rise of global temperature over the last century is almost certainly unprecedented in recent Earth history, but our current rate of sea level rise has stiffer competition. About 14,650 years ago, as the thawing of the last ice began to hit its stride, sea level made a remarkable jump of 12 meters or more—and did so in less than 400 years. It's an event known to scientists as Meltwater Pulse 1A.</p>
+<p>Figuring out where all that water came from hasn’t been easy. It was certainly the result of melting glacial ice (it didn't just suddenly appear) but models of past ice sheet change haven’t quite added up.</p>
+<p>A new study led by <a href="https://www.uib.no/en/persons/Jo.Brendryen">Jo Brendryen</a> at the University of Bergen takes an interesting route to discover that the melting of the Eurasian Ice Sheet, which has largely been overlooked, might just explain things.</p></div><p><a href="https://arstechnica.com/?p=1671012#p3">Read 12 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1671012&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=7p-f5yv17aw:43hkEp15SNc:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=7p-f5yv17aw:43hkEp15SNc:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=7p-f5yv17aw:43hkEp15SNc:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=7p-f5yv17aw:43hkEp15SNc:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=7p-f5yv17aw:43hkEp15SNc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=7p-f5yv17aw:43hkEp15SNc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>The psychology behind that tempting quarantine makeover</title>
+		<link>https://arstechnica.com/?p=1670978</link>
+		<pubDate>Sun, 26 Apr 2020 10:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[WIRED]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670978</guid>
+		<description><![CDATA[Thinking of bleaching your hair, growing a beard? It's a coping mechanism, not boredom]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/self-haircut-800x676.jpg" alt="The psychology behind that tempting quarantine makeover"><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/self-haircut.jpg" class="enlarge-link" data-height="1592" data-width="1883">Enlarge</a> (credit: Jessy Blain | Getty Images)</p>  </figure><div><a name="page-1"></a></div>
+<p>Cue the montage: It’s quarantine makeover time. People practicing social distancing during the <a href="https://www.wired.com/tag/covid-19/">Covid-19 pandemic</a> are itching to change up their looks. The evidence is all over social media: With hair salons shuttered, people have resorted to <a href="https://www.wired.com/story/how-to-cut-your-own-hair-at-home/">chopping at long locks</a> with <a href="https://www.allure.com/story/covid-19-quarantine-hair-makeover">craft scissors</a> or full-on shaving their heads, or dying their hair <a href="https://www.refinery29.com/en-us/2020/04/9706867/how-to-dye-blue-hair-quarantine">blue</a> or <a href="https://www.vox.com/the-goods/2020/4/6/21209619/quarantine-hair-cut-dye-bleach-diy-how-to">pink</a> with box dye. Many men, from Jim Carrey to your uncle, are growing out lumberjack <a href="https://www.today.com/style/why-some-men-are-social-distancing-their-razors-during-coronavirus-t177350">beards</a>.</p>
+<p>For some, mere hair manipulation isn’t enough. If you can keep your eyes open long enough, you could watch YouTube and TikTok videos of people piercing their own ears and noses at home, or letting equally unqualified family members do it for them. Perhaps most adventurous are those contemplating giving themselves quarantine stick-and-poke tattoos with kits they bought on <a href="https://www.facebook.com/StickAndPokeTattooKit/posts/cute-quarantine-tattoos-by-letsbefrank_art-yes-we-are-still-shipping-out-this-is/3414676738561019/">Facebook</a>.</p>
+<p></p></div><p><a href="https://arstechnica.com/?p=1670978#p3">Read 6 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670978&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ucInBR4m_PY:120EQgQ14Ng:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=ucInBR4m_PY:120EQgQ14Ng:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ucInBR4m_PY:120EQgQ14Ng:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=ucInBR4m_PY:120EQgQ14Ng:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ucInBR4m_PY:120EQgQ14Ng:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ucInBR4m_PY:120EQgQ14Ng:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Ancient Mongol warrior women may have inspired legend of Mulan</title>
+		<link>https://arstechnica.com/?p=1671014</link>
+		<pubDate>Sat, 25 Apr 2020 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[anthropology]]></category>
+		<category><![CDATA[Archaeology]]></category>
+		<category><![CDATA[legends]]></category>
+		<category><![CDATA[Mulan]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1671014</guid>
+		<description><![CDATA[Patterns of marks on bones show evidence of archery, horseback riding]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/mulanLIST-800x534.jpg" alt="Skeletal remains from  a husband/wife burial (wife is on the left). Airagiin Gozgor site, Orkhon Province, Mongolia."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/mulanLIST.jpg" class="enlarge-link" data-height="801" data-width="1200">Enlarge</a> <span class="sep">/</span> Skeletal remains from  a husband/wife burial (wife is on the left). Airagiin Gozgor site, Orkhon Province, Mongolia. (credit: Christine Lee)</p>  </figure><div><a name="page-1"></a></div>
+<p>The story of Mulan, a young woman who disguises herself as a man to fight for China's emperor, has become one of best known and most beloved narratives worldwide, thanks in no small part to Disney. The Mouse House's 1998 animated film, <em>Mulan</em>, grossed $304 million worldwide and earned Golden Globe and Oscar nominations. The forthcoming live action version—delayed due to the pandemic—looks to exceed that performance when it is finally released. (It is currently slated for July 24, 2020.)</p>
+<p>It's long been thought that Mulan was based on actual female warriors of the Xianbei, an ancient nomadic people from modern-day Mongolia and northeastern China. Now, anthropologists believe they may have found physical evidence of such warrior women in skeletal remains found in that region.</p>
+<p>The Chinese legend of Mulan first appears in several ancient texts, eventually becoming a folk song, "<a href="https://en.wikipedia.org/wiki/Hua_Mulan">The Ballad of Hua Mulan</a>," transcribed sometime in the sixth century. It tells the story of a young woman in the <a href="https://en.wikipedia.org/wiki/Northern_Wei">Northern Wei</a> era, spanning 386-536 CE, although some details were added later, around 620 CE, during the Tang dynasty. She takes her father's place when each family is required to provide one male to serve in the emperor's army. Hua Mulan serves for 12 years with none of her fellow soldiers ever suspecting her true gender. Later versions of the legend appeared in the late Ming dynasty, followed by a 1593 play by Xu Wei, and the <a href="https://en.wikipedia.org/wiki/Hua_Mulan"><em>Sui Tang Romance</em></a>, a 17th century tragic novel by Chu Renhuo. In that, Mulan has a younger sister and bonds with a fellow female warrior named Xianniang.</p></div><p><a href="https://arstechnica.com/?p=1671014#p3">Read 6 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1671014&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=JWE467PR5rw:FEWEMKKQOF0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=JWE467PR5rw:FEWEMKKQOF0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=JWE467PR5rw:FEWEMKKQOF0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=JWE467PR5rw:FEWEMKKQOF0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=JWE467PR5rw:FEWEMKKQOF0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=JWE467PR5rw:FEWEMKKQOF0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>FDA now wants chloroquine limited to hospitals and clinical trials [UPDATED]</title>
+		<link>https://arstechnica.com/?p=1670498</link>
+		<pubDate>Fri, 24 Apr 2020 18:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[Cathleen O'Grady]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[covid19]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[life sciences]]></category>
+		<category><![CDATA[medicine]]></category>
+		<category><![CDATA[pandemic]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670498</guid>
+		<description><![CDATA[Study of veterans finds higher death rates, no benefits.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/49715506727_2e92909c8d_k-800x571.jpg" alt="Hospital Corpsman 3rd Class Kimberly Wyss, from Ventura, Calif., dons surgical gloves aboard the hospital ship USNS &lt;em&gt;Mercy &lt;/em&gt;(T-AH 19)."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/49715506727_2e92909c8d_k.jpg" class="enlarge-link" data-height="1463" data-width="2048">Enlarge</a> <span class="sep">/</span> Hospital Corpsman 3rd Class Kimberly Wyss, from Ventura, Calif., dons surgical gloves aboard the hospital ship USNS <em>Mercy </em>(T-AH 19). (credit: <a rel="nofollow" class="caption-link" href="https://www.flickr.com/photos/compacflt/49715506727/in/photolist-2iKbY66-2iLR5tf-2iQqsJr-2iL3BQ7-2iH656n-2iw7MVs-2iJhCGA-2iFkgnE-2iofGJi-2iH6QYm-2iLVDDf-2iFo3Xr-2iFkgkW-2iH6oT7-2iFiPaG-2imZKbt-2iFBzZH-2iFEkXG-2iFo3XM-2iFpueT-2iFkgo6-2iGYLxG-2iGYLuA-2iGYLyo-2iRsYj9-2iHenvS-2iGzBYL-2iJgpzk-2iQyNdM-2iLdKwT-2iQ3p3C-2iBE8wJ-2iQYRnu-2iGEb4c-2iQ2PGa-2iR4qUv-2iJAvy5-2iKi8k6-2iKamco-2iJL9Gw-2iJdmVQ-2iFiorc-2iHkhSr-2iAqsXs-2iJF4mR-2iHaHxh-2iHs7sc-2iJa1Hb-2iLu1Ff-2iKNBTS">flickr</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p><strong>Update, April 24:</strong> On Friday, the FDA <a href="https://www.fda.gov/media/137250/download">issued a safety announcement</a> regarding the use of <span style="font-size: 14px;">hydroxychloroquine or chloroquine, saying the drugs' use "</span><span style="font-size: 14px;">should be limited to clinical trial settings or for treating certain hospitalized patients." The move came in response to a growing number of "adverse incident" reports from hospitals and outpatient treatment, focused on a known side effect of chloroquine and its </span>derivatives:  changes in heart rhythm that can be (and apparently have been) fatal.</p>
+<p>Chloroquine is know to alter a property of the heart's electrical activity called the <a href="https://en.wikipedia.org/wiki/QT_interval">QT interval</a>. Should this interval get overly long, the heart can lose its rhythm entirely; if the lower chambers stop coordinated contractions, the results are fatal unless they can be restarted. One anecdotal report of successful treatment of COVID-19 had paired chloroquine with the antibiotic azithromycin, which also prolongs the QT interval, which led to the drugs frequently being prescribed together.</p>
+<p>By limiting the use of the drug to hospital settings, the FDA is attempting to ensure appropriate care is available should the side effects become problematic. The adverse effect reports it cites indicates that, while there were some fatalities, there are also non-fatal cases of the potentially lethal ventricular fibrillation, which suggests availability of medical staff allowed these patients to recover.</p></div><p><a href="https://arstechnica.com/?p=1670498#p3">Read 16 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670498&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4WOUllJzgcY:-_38814xlio:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=4WOUllJzgcY:-_38814xlio:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4WOUllJzgcY:-_38814xlio:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=4WOUllJzgcY:-_38814xlio:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4WOUllJzgcY:-_38814xlio:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4WOUllJzgcY:-_38814xlio:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>BCI system gives paralyzed man back his sense of touch with haptic feedback</title>
+		<link>https://arstechnica.com/?p=1670369</link>
+		<pubDate>Fri, 24 Apr 2020 17:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[BCI]]></category>
+		<category><![CDATA[brain-computer interface]]></category>
+		<category><![CDATA[Haptic Feedback]]></category>
+		<category><![CDATA[Neuroscience]]></category>
+		<category><![CDATA[science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670369</guid>
+		<description><![CDATA[Long-term goal is to develop system that works as well at home as in the laboratory.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/BCI1-800x534.jpg" alt="Ian Burkhard suffered a severe spinal cord injury in 2010. Battelle's NeuroLife project is restoring motor function to his right arm with a brain-computer-interface system."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/BCI1.jpg" class="enlarge-link" data-height="801" data-width="1200">Enlarge</a> <span class="sep">/</span> Ian Burkhard suffered a severe spinal cord injury in 2010. Battelle's NeuroLife project is restoring motor function to his right arm with a brain-computer-interface system. (credit: Battelle)</p>  </figure><div><a name="page-1"></a></div>
+<p>Ian Burkhart, now 28, had a diving accident in 2010 that severely damaged his spinal cord, leaving him paralyzed and confined to a wheelchair, with only limited movement in his elbow and shoulders. Thanks to an implanted brain-computer-interface (BCI) developed by Battelle, he has made significant progress over the last six years in restoring small movements; he's even able to play <em>Guitar Hero</em> again. And now Battelle scientists have succeeded in restoring his sense of touch, according to <a href="https://www.cell.com/cell/fulltext/S0092-8674(20)30347-0">a new paper</a> in the journal Cell.</p>
+<p>BCIs are <a href="https://altaonline.com/thinking-machines/">a booming R&amp;D field</a>, with startups like Elon Musk's Neuralink looking ahead to a world where human beings will connect directly to their computers with either external devices (similar in function to an EEG) or biologically compatible implanted BCIs. Such systems require a way to record neural activity (electrode sensors), a way to transmit those signals (like a small wireless chipset), and algorithms that can translate those signals into action. BCIs are already a medical reality for patients with spinal cord injuries, like Burkhart, or those who suffer from Parkinson's or epileptic seizures. The benefits patients gain far outweigh the risks of surgical implantation.</p>
+<p>Over the past 90 years or so, Battelle has been instrumental in developing such prominent technologies as the Xerox machine, cruise control, and CD-ROMs, along with numerous medical devices. Patrick Ganzer, lead author on the new Cell paper, is a research scientist with the organization's medical devices division, working with the NeuroLife group to develop a BCI for clinical trial. Burkhart has been working with Ganzer and NeuroLife since 2014 to restore motor function to his right arm.</p></div><p><a href="https://arstechnica.com/?p=1670369#p3">Read 11 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670369&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4r_pHssAe1M:tLLkA2qx5P8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=4r_pHssAe1M:tLLkA2qx5P8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4r_pHssAe1M:tLLkA2qx5P8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=4r_pHssAe1M:tLLkA2qx5P8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4r_pHssAe1M:tLLkA2qx5P8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=4r_pHssAe1M:tLLkA2qx5P8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Experts demolish studies suggesting COVID-19 is no worse than flu</title>
+		<link>https://arstechnica.com/?p=1670872</link>
+		<pubDate>Fri, 24 Apr 2020 17:33:51 +0000</pubDate>
+		<dc:creator><![CDATA[Beth Mole]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[antibody tests]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[public health]]></category>
+		<category><![CDATA[Santa Clara]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[seroprevalence]]></category>
+		<category><![CDATA[Stanford]]></category>
+		<category><![CDATA[statistics]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670872</guid>
+		<description><![CDATA[Authors of widely publicized antibody studies “owe us all an apology,” one expert says.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1220455296-800x558.jpg" alt="A COVID-19 blood test is administered outside of Delmont Medical Care on April 22, 2020 in Franklin Square, New York. The test identifies antibodies to the coronavirus.   "><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1220455296.jpg" class="enlarge-link" data-height="2727" data-width="3910">Enlarge</a> <span class="sep">/</span> A COVID-19 blood test is administered outside of Delmont Medical Care on April 22, 2020 in Franklin Square, New York. The test identifies antibodies to the coronavirus.    (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/news-photo/blood-test-is-administered-outside-of-delmont-medical-care-news-photo/1220455296?adppopup=true">Getty | Al Bello</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Frustrated statisticians and epidemiologists took to social media this week to call out substantial flaws in two widely publicized studies trying to estimate the true spread of COVID-19 in two California counties, <a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1.full.pdf">Santa Clara</a> and Los Angeles.</p>
+<p>The studies suggested that far more people in each of the counties have been infected with the new coronavirus than thought—that is, they estimated that true case counts in the two counties are up to 85 times and 55 times the number of the currently confirmed cases in the counties, respectively. Accordingly, this suggests that COVID-19 is far less deadly than thought. The large case counts in relation to unchanged number of deaths put COVID-19’s fatality rate in the same range as seasonal flu.</p>
+<h2>How dangerous is this?</h2>
+<p>We dig into the details of the studies below, but it's important to note that neither of them have been published in a scientific journal, nor have they gone through standard peer-review for scientific vetting. Instead, they have been posted online in draft form (a commonplace occurrence amid a rapidly evolving pandemic that inclines researchers to have fast access to data, however uncertain).</p></div><p><a href="https://arstechnica.com/?p=1670872#p3">Read 44 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670872&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=BR7xvG8D6g8:LuHoAwgFG5k:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=BR7xvG8D6g8:LuHoAwgFG5k:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=BR7xvG8D6g8:LuHoAwgFG5k:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=BR7xvG8D6g8:LuHoAwgFG5k:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=BR7xvG8D6g8:LuHoAwgFG5k:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=BR7xvG8D6g8:LuHoAwgFG5k:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Trump takes good news on disinfectants and gives it an insane spin</title>
+		<link>https://arstechnica.com/?p=1670902</link>
+		<pubDate>Fri, 24 Apr 2020 17:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[John Timmer]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[bleach]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[isopropyl alcohol]]></category>
+		<category><![CDATA[pandemic]]></category>
+		<category><![CDATA[sunlight]]></category>
+		<category><![CDATA[Trump]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670902</guid>
+		<description><![CDATA[The contrast between Trump and actual experts may have never been greater.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1209343030-800x534.jpg" alt="Image of two men in protective clothing spraying a public area."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1209343030.jpg" class="enlarge-link" data-height="683" data-width="1024">Enlarge</a> <span class="sep">/</span> Bleach works great on surfaces, not inside your body. (credit:  NurPhoto / Getty Images)</p>  </figure><div><a name="page-1"></a></div>
+<p>The White House's daily pandemic press briefings have been home to some very unusual moments, with medical experts often asked to correct misinformation or bad advice, some of it offered or favored by President Trump himself. But those somewhat surreal scenes had become so commonplace that the events may have started to seem routine. Any normalcy changed yesterday, when, after receiving some good news from the research community, Trump suddenly suggested that we should test the idea of irradiating people internally or injecting them with disinfectant.</p>
+<p>Before the day was over, the maker of Lysol disinfectant was <a href="https://www.rb.com/media/news/2020/april/improper-use-of-disinfectants/">issuing statements</a> saying there are no circumstances in which its products should be ingested or injected.</p>
+<h2>We’ll do the good news first</h2>
+<p>The trouble was triggered by a rare bit of good news amid this global pandemic, delivered by <a href="https://www.dhs.gov/science-and-technology/william-n-bryan">Bill Bryan</a>, the head of the Department of Homeland Security's Science and Technology Directorate. Bryan was brought on to discuss the survival of the virus under various environmental conditions. (You can <a href="https://www.youtube.com/watch?v=E94pqy2rB7g">watch his presentation here</a>.)</p></div><p><a href="https://arstechnica.com/?p=1670902#p3">Read 15 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670902&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=QzkF_oUZICI:jf1A01QQtG0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=QzkF_oUZICI:jf1A01QQtG0:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=QzkF_oUZICI:jf1A01QQtG0:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=QzkF_oUZICI:jf1A01QQtG0:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=QzkF_oUZICI:jf1A01QQtG0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=QzkF_oUZICI:jf1A01QQtG0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Rocket Report: A new Starship moves to the pad, Iran’s surprise launch</title>
+		<link>https://arstechnica.com/?p=1670685</link>
+		<pubDate>Fri, 24 Apr 2020 11:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670685</guid>
+		<description><![CDATA[Falcon Heavy gets a payload for its next mission, and it’s... a CubeSat?]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2018/07/Rocket-Report-Intro-4-800x450.jpg" alt="The Electron launch vehicle is ready to soar."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2018/07/Rocket-Report-Intro-4.jpg" class="enlarge-link" data-height="563" data-width="1000">Enlarge</a> <span class="sep">/</span> The Electron launch vehicle is ready to soar. (credit: <a rel="nofollow" class="caption-link" href="https://arstechnica.com/author/aurich-lawson/">Rocket Lab</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Welcome to Edition 2.41 of the Rocket Report! Lots of news this week, topped by the ascent of the Falcon 9 rocket to the status of "most experienced" rocket now active in the United States. Not bad for a booster that has been flying for less than a decade. We also have news of Iran's surprise launch this week and much more.</p>
+<p>As always, we <a href="https://arstechnica.wufoo.com/forms/launch-stories/">welcome reader submissions</a>, and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar.</p>
+<div class="image shortcode-img center full"><img src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/smalll.png"></div>
+<p><strong>Iran Guard reveals secret space program.</strong> Iran's Revolutionary Guard launched its first satellite into space Wednesday, <a href="https://apnews.com/0b45baa8a846f55e058e98905e290ce5" target="_blank" rel="noopener">the AP reports</a>. This action dramatically showcased what experts described as a secret military space program that could advance its ballistic missile development amid wider tensions between the Islamic Republic and the United States.</p></div><p><a href="https://arstechnica.com/?p=1670685#p3">Read 22 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670685&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=pWkhwa-ONaM:rcgEmC7YE28:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=pWkhwa-ONaM:rcgEmC7YE28:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=pWkhwa-ONaM:rcgEmC7YE28:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=pWkhwa-ONaM:rcgEmC7YE28:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=pWkhwa-ONaM:rcgEmC7YE28:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=pWkhwa-ONaM:rcgEmC7YE28:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>I probed my nasal cavity for the new coronavirus—here’s what I found</title>
+		<link>https://arstechnica.com/?p=1670556</link>
+		<pubDate>Fri, 24 Apr 2020 10:15:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sam Machkovech]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[Bill and Melinda Gates Foundation]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[COVID-19]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670556</guid>
+		<description><![CDATA[Quick turnaround, unclear instructions are worth exploring for tests going forward.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+
+
+
+
+
+<div><a name="page-1"></a></div>
+<p>SEATTLE—I've kept my eyes on the <a href="https://scanpublichealth.org/">Seattle Coronavirus Assessment Network (SCAN)</a> since its formation in March, in part because I desperately wanted to know whether I might have caught COVID-19. Hence, "coronavirus assessment" sounded good to me. SCAN's pilot program landed in one of the United States' earliest confirmed outbreak regions, and its pitch—hundreds of tests a day, all conducted via <em>free</em> take-home swabbing kits—was open to public signups.</p>
+<p>Clearly, I wasn't alone in wondering about possible COVID-19 contraction. (In my case, a seasonal burst of nagging cough and sinus-like chest tightness couldn't have come at a worse time.) SCAN's site was hounded by demand, and it typically informed visitors that a given day's tests were accounted for, please try again tomorrow.</p>
+<p>Roughly one month after public signups began, something in the supply-and-demand chain opened up widely enough for me to successfully sign up this past weekend—as a civilian, mind you, not as a member of the press requesting special access. What follows is my anecdotal experience with what remains the United States' only free take-home COVID-19 testing program—and what health officials and citizens alike can learn from it.</p></div><p><a href="https://arstechnica.com/?p=1670556#p3">Read 22 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670556&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ejfCPekPgW0:bmmwd3QNifw:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=ejfCPekPgW0:bmmwd3QNifw:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ejfCPekPgW0:bmmwd3QNifw:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=ejfCPekPgW0:bmmwd3QNifw:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ejfCPekPgW0:bmmwd3QNifw:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=ejfCPekPgW0:bmmwd3QNifw:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>The Hubble Space Telescope launched 30 years ago—then the problems began</title>
+		<link>https://arstechnica.com/?p=1670579</link>
+		<pubDate>Fri, 24 Apr 2020 09:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670579</guid>
+		<description><![CDATA[“What stands out most vividly in my mind is all the things that didn't go right.”]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/1990_s31_IMAX_view_of_HST_release-800x511.jpg" alt="A crane from a space shuttle releases a satellite into space."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/1990_s31_IMAX_view_of_HST_release.jpg" class="enlarge-link" data-height="1105" data-width="1730">Enlarge</a> <span class="sep">/</span> IMAX Cargo Bay Camera view of the Hubble Space Telescope at the moment of release. (credit: <a rel="nofollow" class="caption-link" href="https://www.nasa.gov/">NASA</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Space Shuttle Discovery launched into orbit 30 years ago today with the Hubble Space Telescope in its payload bay.</p>
+<p>Charlie Bolden, who served as pilot for the STS-31 shuttle mission, remembers the five-day spaceflight like it was yesterday. "What stands out most vividly in my mind is all the things that didn't go right," Bolden recalled in an interview.</p>
+<p>It's true. Although astronomers would not discover that the Hubble Space Telescope had a serious problem with its mirror until a few weeks after Discovery landed, the deployment mission was not without difficulties itself. The crew came within minutes of embarking on an emergency spacewalk and even had contingency plans to bring Hubble back to Earth if needed.</p></div><p><a href="https://arstechnica.com/?p=1670579#p3">Read 14 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670579&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=kqELaBgU6D0:Um_W_q3o_P4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=kqELaBgU6D0:Um_W_q3o_P4:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=kqELaBgU6D0:Um_W_q3o_P4:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=kqELaBgU6D0:Um_W_q3o_P4:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=kqELaBgU6D0:Um_W_q3o_P4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=kqELaBgU6D0:Um_W_q3o_P4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>First look at the outcomes of COVID-19 patients in NY hospitals</title>
+		<link>https://arstechnica.com/?p=1670623</link>
+		<pubDate>Thu, 23 Apr 2020 21:25:59 +0000</pubDate>
+		<dc:creator><![CDATA[John Timmer]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[dialysis]]></category>
+		<category><![CDATA[hospitalization]]></category>
+		<category><![CDATA[medicine]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[ventilators]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670623</guid>
+		<description><![CDATA[The data provide a snapshot of the early stages of the pandemic in the US's epicenter.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1210838154-800x534.jpg" alt="Health worker in protective gear enters hospital door labeled COVID."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1210838154.jpg" class="enlarge-link" data-height="683" data-width="1024">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=PASCAL+POCHARD-CASABIANCA"> PASCAL POCHARD-CASABIANCA / Getty Images</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>On March 1, New York City confirmed its first case of SARS-CoV-2 infection. By the end of the month, thousands were infected, and hospitals were struggling to manage the influx of patients. On Wednesday, JAMA published an analysis of the outcomes of thousands of patients who ended up at a large hospital system in the city and surrounding areas. While the data is annoyingly incomplete, it does provide a broad overview of how the pandemic is interacting with the health demographics in the United States.</p>
+<p>Some of this is expected, as the sorts of pre-existing conditions that exacerbate COVID-19—obesity, hypertension, and diabetes—cause problems here. The study also suggests some dramatically bad outcomes for older patients who ended up on ventilators, with 97 percent mortality for those over 65. But the study period ended before the outcomes of most patients could be tracked, so this number has to be treated with significant caution.</p>
+<h2>At admission</h2>
+<p>The work is based on the electronic patient records from the Northwell Health hospital system, which has a dozen hospitals in New York City and the surrounding suburbs. The researchers (Safiya Richardson, Jamie S. Hirsch, and Mangala Narasimhan) pulled out the records of anyone with a confirmed SARS-CoV-2 infection from the period between March 1 and April 4 of this year. This produced a study population of 5,700 patients, which is quite large. However, the study cut off tracking the patients on April 4; if a case hadn't resulted in discharge or death by then, the outcomes couldn't be analyzed. Follow-ups for those who were discharged were also limited, with the medium length being only four days.</p></div><p><a href="https://arstechnica.com/?p=1670623#p3">Read 9 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670623&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=gQyzGJMZHv0:6pBSdtfTYwg:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=gQyzGJMZHv0:6pBSdtfTYwg:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=gQyzGJMZHv0:6pBSdtfTYwg:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=gQyzGJMZHv0:6pBSdtfTYwg:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=gQyzGJMZHv0:6pBSdtfTYwg:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=gQyzGJMZHv0:6pBSdtfTYwg:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Head of US’ pandemic vaccine group says he was demoted in retaliation</title>
+		<link>https://arstechnica.com/?p=1670363</link>
+		<pubDate>Wed, 22 Apr 2020 22:35:06 +0000</pubDate>
+		<dc:creator><![CDATA[John Timmer]]></dc:creator>
+				<category><![CDATA[Policy]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[barda]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[HHS]]></category>
+		<category><![CDATA[pandemic]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[vaccine]]></category>
+		<category><![CDATA[whistleblower]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670363</guid>
+		<description><![CDATA[He claims political appointees bristled at his insistence on science.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1204950037-800x534.jpg" alt="Image of three men walking across a lawn."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1204950037.jpg" class="enlarge-link" data-height="683" data-width="1024">Enlarge</a> <span class="sep">/</span> Secretary of Health and Human Services Alex Azar (right), shown here with Dr. Anthony Fauci and President Trump, has reportedly clashed with a key director in his agency. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/editorial-images">Drew Angerer / Getty Images</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Today, the former head of the agency responsible for rapid development of pandemic responses such as therapies and vaccines announced he would file a whistleblower complaint with the Department of Health and Human Services (HHS). Rick Bright, who had led the Biomedical Advanced Research and Development Authority until this week, says he was transferred to a different position because he insisted on funding scientifically valid vaccine and therapy research over the objections of political appointees at HHS.</p>
+<p>The <a href="https://www.phe.gov/about/barda/Pages/default.aspx">Biomedical Advanced Research and Development Authority</a> (BARDA) has been a relatively obscure agency. It has a broad remit: to enable a rapid response to emerging biomedical threats. Many of its listed threats are focused on terrorism issues, like biological, chemical, and radioactive attacks. But it also handles the related issue of pandemics and emerging diseases, which makes it very relevant at the moment.</p>
+<p>The responses BARDA is meant to foster include diagnostics, therapies, and vaccines, and it provides both funding to advance their development as well as technical consulting to help companies overcome bottlenecks in the development process. As such, it has played a key role in determining the government's response to the SARS-CoV-2 pandemic, and it has seen its budget tripled in a recent coronavirus response bill.</p></div><p><a href="https://arstechnica.com/?p=1670363#p3">Read 7 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670363&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=hjm9G6w1V_8:hCPxEi24310:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=hjm9G6w1V_8:hCPxEi24310:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=hjm9G6w1V_8:hCPxEi24310:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=hjm9G6w1V_8:hCPxEi24310:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=hjm9G6w1V_8:hCPxEi24310:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=hjm9G6w1V_8:hCPxEi24310:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>There seems to be no pattern to where humans pick up new viruses</title>
+		<link>https://arstechnica.com/?p=1670337</link>
+		<pubDate>Wed, 22 Apr 2020 21:53:01 +0000</pubDate>
+		<dc:creator><![CDATA[John Timmer]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[evolution]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[phylogeny]]></category>
+		<category><![CDATA[risk]]></category>
+		<category><![CDATA[viruses]]></category>
+		<category><![CDATA[zoonotic]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670337</guid>
+		<description><![CDATA[No groups of species appear to be especially likely to transfer viruses to humans.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2018/05/about-ebola.jpg" alt="A colorized transmission electron micrograph (TEM) of an Ebola virus virion. "><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2018/05/about-ebola.jpg" class="enlarge-link" data-height="364" data-width="775">Enlarge</a> <span class="sep">/</span> A colorized transmission electron micrograph (TEM) of an Ebola virus virion.  (credit: <a rel="nofollow" class="caption-link" href="https://www.cdc.gov/vhf/ebola/index.html">CDC</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>A virus that normally infects animals makes the jump to humans, whose immune systems have never seen it before. It suddenly sweeps across the globe, leaving death and chaos in its wake. We're living with that reality now and have gone through it previously with HIV, SARS, MERS, Ebola, Hanta, and various flu viruses that have threatened humanity in just the past few decades.</p>
+<p>While there are many organizations that try to stay on top of threats of emerging diseases, it would be helpful if we could identify major sources of potential threats. If, for example, we knew that certain species were more prone to carrying viruses that could make the jump to humans, we could potentially survey the viruses found in those species, identify major threats, and potentially even develop therapies or vaccines in advance.</p>
+<p>But a study published recently in PNAS suggests there's no real pattern to where humans are picking up new viruses. Instead, groups with lots of species tend to have lots of viral species, and those make the jump to humans largely in proportion to the number of species.</p></div><p><a href="https://arstechnica.com/?p=1670337#p3">Read 15 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670337&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Ki_ZRyXpXsQ:iebcbz-2YLA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=Ki_ZRyXpXsQ:iebcbz-2YLA:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Ki_ZRyXpXsQ:iebcbz-2YLA:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=Ki_ZRyXpXsQ:iebcbz-2YLA:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Ki_ZRyXpXsQ:iebcbz-2YLA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=Ki_ZRyXpXsQ:iebcbz-2YLA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>The Falcon 9 just became America’s workhorse rocket</title>
+		<link>https://arstechnica.com/?p=1670188</link>
+		<pubDate>Wed, 22 Apr 2020 20:55:53 +0000</pubDate>
+		<dc:creator><![CDATA[Eric Berger]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670188</guid>
+		<description><![CDATA["While the other guys deliver press releases, we deliver astronauts."]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/Starlink-Mission-15-13-screenshot-800x450.png" alt="Extremely long-distance photograph of a rocket liftoff."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/Starlink-Mission-15-13-screenshot.png" class="enlarge-link" data-height="720" data-width="1280">Enlarge</a> <span class="sep">/</span> The Falcon 9 rocket launched for the 84th time on Wednesday. (credit: <a rel="nofollow" class="caption-link" href="https://www.spacex.com">SpaceX</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Wednesday's successful launch of 60 Starlink satellites checked a few boxes for SpaceX.</p>
+<p>For the first time in three tries, the company successfully landed a first stage booster on an autonomous drone ship in the Atlantic Ocean. The flawless flight brings SpaceX one step closer to the much-anticipated launch of a Crew Dragon spacecraft, as early <a href="https://arstechnica.com/science/2020/04/spacexs-crew-dragon-gets-a-launch-date-may-27th/">as May 27</a>. And, of course, the company extended its Starlink constellation to about 420 satellites, bringing SpaceX closer to offering broadband Internet service to North America from space.</p>
+
+<p>But SpaceX also made a huge, symbolic leap on Wednesday. With the latest Starlink launch, the Falcon 9 rocket has now launched 84 times. This surpasses the total flights by United Launch Alliance's Atlas V rocket.</p></div><p><a href="https://arstechnica.com/?p=1670188#p3">Read 5 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670188&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=qjPNzRmJyvQ:Kvu5oUaNRuQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=qjPNzRmJyvQ:Kvu5oUaNRuQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=qjPNzRmJyvQ:Kvu5oUaNRuQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=qjPNzRmJyvQ:Kvu5oUaNRuQ:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=qjPNzRmJyvQ:Kvu5oUaNRuQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=qjPNzRmJyvQ:Kvu5oUaNRuQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Fox News hosts have measurable effect on COVID cases, study finds</title>
+		<link>https://arstechnica.com/?p=1670243</link>
+		<pubDate>Wed, 22 Apr 2020 18:29:57 +0000</pubDate>
+		<dc:creator><![CDATA[Jonathan M. Gitlin]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[disinformation]]></category>
+		<category><![CDATA[Fox news]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670243</guid>
+		<description><![CDATA[Comparison of Fox News hosts reveals effect of disinformation on COVID-19 deaths.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/hannity-this-is-fine-800x451.jpg" alt="A photoshopped screenshot from Fox News shows Sean Hannity on fire."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/hannity-this-is-fine.jpg" class="enlarge-link" data-height="730" data-width="1296">Enlarge</a> (credit: <a rel="nofollow" class="caption-link" href="https://arstechnica.com/author/aurich-lawson/">Aurich Lawson / Fox News</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>One of the more frustrating aspects of the coronavirus pandemic has been the amount of disinformation swirling about. <a href="https://arstechnica.com/science/2020/04/malaria-drug-touted-by-trump-to-treat-covid-19-begins-nih-clinical-trial/">Much of this is politically motivated</a>, perhaps unsurprising with the attention given to President Donald Trump's rambling, error-strewn press conferences. It may seem like commonsense that actively misleading the public during a national emergency has consequences, but now Fox News' two most-watched hosts have unwittingly performed a rather elegant experiment on their viewers that allows us to quantify that effect. The results are stark: greater exposure to Sean Hannity versus Tucker Carlson shows a measurable increase in the number of COVID-19 cases and deaths throughout March and early April.</p>
+<p>Hannity and Carlson are Fox News' two biggest stars, each commanding around 4 million viewers for their respective evening shows (<em>Hannity</em> and <em>Tucker Carlson Tonight</em>). While often it can be hard to see daylight between their ideological pronouncements on-air, in early 2020, the two had markedly different lines on the coronavirus outbreak. Carlson began regularly covering the virus in January. During February, he did so with a growing sense of alarm that the United States could experience a heavy death toll—the same month that saw much inaction on the part of the federal government.</p>
+<p>By contrast, Hannity gave the virus almost no attention in February. And when he began to discuss the virus at the same frequency as Carlson during the first two weeks of March, it was to minimize the threat compared to the number of annual deaths attributable to car crashes, shootings, or seasonal influenza. Additionally, Hannity also accused the Democratic Party of exaggerating the threat as a way of attacking the president. However, by mid-March, Hannity changed his tune once President Trump <a href="https://arstechnica.com/science/2020/03/covid-19-is-a-national-emergency-trump-declares/">declared COVID-19 a national emergency</a>.</p></div><p><a href="https://arstechnica.com/?p=1670243#p3">Read 6 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670243&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=6o6mfKl1yb4:iUepdiyixwQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=6o6mfKl1yb4:iUepdiyixwQ:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=6o6mfKl1yb4:iUepdiyixwQ:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=6o6mfKl1yb4:iUepdiyixwQ:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=6o6mfKl1yb4:iUepdiyixwQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=6o6mfKl1yb4:iUepdiyixwQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>The value of lives saved by social distancing outweighs the costs</title>
+		<link>https://arstechnica.com/?p=1670183</link>
+		<pubDate>Wed, 22 Apr 2020 17:43:58 +0000</pubDate>
+		<dc:creator><![CDATA[Cathleen O'Grady]]></dc:creator>
+				<category><![CDATA[Science]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[life sciences]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1670183</guid>
+		<description><![CDATA[Social distancing means a net benefit of $5.2 trillion, according to the analysis.]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1220352591-800x533.jpg" alt="Economic activity vs. social distancing is a careful balancing act."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1220352591.jpg" class="enlarge-link" data-height="4253" data-width="6380">Enlarge</a> <span class="sep">/</span> Economic activity vs. social distancing is a careful balancing act. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/detail/news-photo/shopkeeper-wearing-a-protective-mask-serves-her-client-as-news-photo/1220352591?adppopup=true">Mata Hitij</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>As Ars <a href="https://arstechnica.com/science/2020/04/lockdowns-flatten-the-economic-curve-too/">reported recently</a>, evidence from the 1918 flu pandemic suggests that cities with more aggressive lockdown responses had stronger economic recoveries.</p>
+<p>There’s more than one way to think about the economics of lockdowns, and a paper due to be published in the Journal of Benefit-Cost Analysis has an entirely different approach. It accepts that lockdowns will hurt the economy compared to business-as-usual but calculates whether that cost is outweighed by the lives that will be saved by social-distancing measures.</p>
+<p>The answer is yes—by $5.2 trillion. That’s an estimate that changes based on a range of different assumptions, but it represents what the authors consider the most realistic scenario.</p></div><p><a href="https://arstechnica.com/?p=1670183#p3">Read 13 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1670183&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=yszth8bwag4:0gLnrYEqcD8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=yszth8bwag4:0gLnrYEqcD8:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=yszth8bwag4:0gLnrYEqcD8:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=yszth8bwag4:0gLnrYEqcD8:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=yszth8bwag4:0gLnrYEqcD8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=yszth8bwag4:0gLnrYEqcD8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Americans have Texas-sized carbon footprints—here’s why</title>
+		<link>https://arstechnica.com/?p=1669215</link>
+		<pubDate>Wed, 22 Apr 2020 11:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[Scott K. Johnson]]></dc:creator>
+				<category><![CDATA[Features]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[carbon footprint]]></category>
+		<category><![CDATA[greenhouse gas emissions]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1669215</guid>
+		<description><![CDATA[It's often shrugged off, but what explains the difference with Europe, exactly?]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1055654046-800x533.jpg" alt="Casually dressed people congregate around an oddly misshapen humanoid statue."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/GettyImages-1055654046.jpg" class="enlarge-link" data-height="3456" data-width="5184">Enlarge</a> <span class="sep">/</span> Fairgoers gather at Big Tex at the State Fair of Texas in 2018. Based on American data, presumably some not-insignificant portion of fairgoers traveled to Dallas in not-the-most-fuel-efficient of vehicles. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/search/photographer?assettype=image&amp;mediatype=photography&amp;photographer=ron%20jenkins&amp;sort=best"> Ron Jenkins / The Washington Post / Getty Images</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Greenhouse gas emissions are most commonly reported at the national level, which tends to make us compare nations to other nations. This makes some sense, as national policy can significantly influence emissions trends. But it's easy to forget that borders are just lines on a map, and some lines have considerably more people inside them than others. The citizens of Luxembourg don't ensure their country's low carbon emissions because they're lightyears ahead of the people of China in terms of efficiency—there are just a whole lot fewer of them.</p>
+<p>In order to make more meaningful comparisons, you obviously have to calculate emissions per person. And when you do that, the United States really sticks out. (As does Luxembourg, by the way.) It's not surprising that <em>per capita</em> emissions in the United States are much greater than in India, where millions of people still lack electricity. But why are they also much greater than in the wealthier Western nations in Europe?</p>
+
+<p>To answer that question, we need to do more than divide a national total by population. We need to break down the contributions to a person's carbon footprint—the emissions behind the things we buy and do. Doing that in a detailed way is a challenge, and researchers haven't been at it that long. "A lot of the research that's been done has been done quite quickly [with] available data and resources," UC Berkeley's <a href="https://erg.berkeley.edu/people/jones-christopher/">Chris Jones</a> told Ars, "And there really is a lot of work to do."</p></div><p><a href="https://arstechnica.com/?p=1669215#p3">Read 33 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1669215&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=k9JIy3TeUI0:enD3Q7UE2Ok:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=k9JIy3TeUI0:enD3Q7UE2Ok:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=k9JIy3TeUI0:enD3Q7UE2Ok:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=k9JIy3TeUI0:enD3Q7UE2Ok:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=k9JIy3TeUI0:enD3Q7UE2Ok:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=k9JIy3TeUI0:enD3Q7UE2Ok:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+		<item>
+		<title>Here’s why “baking” damaged reel-to-reel tapes renders them playable again</title>
+		<link>https://arstechnica.com/?p=1669742</link>
+		<pubDate>Tue, 21 Apr 2020 19:58:55 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Ouellette]]></dc:creator>
+				<category><![CDATA[Gaming & Culture]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[chemistry]]></category>
+		<category><![CDATA[phase transitions]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[polymers]]></category>
+		<category><![CDATA[reel-to-reel tapes]]></category>
+		<category><![CDATA[science]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1669742</guid>
+		<description><![CDATA[Baking at 130°F is the sweet spot to reverse "sticky shed syndrome."]]></description>
+				<content:encoded><![CDATA[<div id="rss-wrap">
+<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/wp-content/uploads/2020/04/reelTOPA-800x533.jpg" alt="Stock photograph of reel-to-reel tape deck."><p class="caption" style="font-size:0.8em"><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/04/reelTOPA.jpg" class="enlarge-link" data-height="799" data-width="1200">Enlarge</a> <span class="sep">/</span> Audio buffs are rediscovering the sound quality of reel-to-reel tapes. Chemists at the Library of Congress are studying why the tapes tend to degrade over time and why baking them can often reverse the damage. (credit: <a rel="nofollow" class="caption-link" href="https://www.gettyimages.com/search/photographer?assettype=image&amp;mediatype=photography&amp;photographer=bethany%20clarke&amp;sort=best">Bethany Clarke/Getty Images</a>)</p>  </figure><div><a name="page-1"></a></div>
+<p>Reel-to-reel tapes are experiencing a resurgence of interest among audio buffs, but they are prone to degradation, which has been a topic of active research for many years. It's well known that applying heat can often reverse the damage sufficiently to enable playback, usually by baking the tapes in an oven. Now scientists at the US Library of Congress have determined precisely why this method seems to work, <a href="https://www.morressier.com/article/towards-understanding-thermal-remediation-degraded-archival-reeltoreel-audio-tapes/5e736c6bcde2b641284abb13?">presenting their findings</a> earlier this month on the American Chemical Society's SciMeetings online platform.</p>
+<p>Project leader Andrew Davis is a polymer chemist who works in the LOC's preservation research and testing division. The LOC's mission is to ensure its collections continue to be accessible to the public, either in their original or reformatted mediums. The R&amp;D division is responsible for providing the scientific groundwork for that mission, similar to how the Smithsonian Institute employs research scientists to maintain its collections.</p>
+<p>"We span everything from simple analytical tests, like determining the kind of ink used on paper, to testing all building and construction materials, and ensuring the stickers on the barcodes don't damage books," Davis told Ars.</p></div><p><a href="https://arstechnica.com/?p=1669742#p3">Read 11 remaining paragraphs</a> | <a href="https://arstechnica.com/?p=1669742&comments=1">Comments</a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=TkVAwg1jXT0:ZbK9aaMkmdE:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=TkVAwg1jXT0:ZbK9aaMkmdE:V_sGLiPBpWU" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=TkVAwg1jXT0:ZbK9aaMkmdE:F7zBnMyn0Lo"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?i=TkVAwg1jXT0:ZbK9aaMkmdE:F7zBnMyn0Lo" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=TkVAwg1jXT0:ZbK9aaMkmdE:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=qj6IDK7rITs" border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/arstechnica/science?a=TkVAwg1jXT0:ZbK9aaMkmdE:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/arstechnica/science?d=yIl2AUoC8zA" border="0"></img></a>
+</div>]]></content:encoded>
+			</item>
+	</channel>
+</rss>
