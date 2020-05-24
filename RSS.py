@@ -1,45 +1,30 @@
-import re, requests
-from bs4 import BeautifulSoup
+import feedparser
 from collections import Counter
 
-def read_rss():
+def read_rss(etag='44HV76Xhrz/fXa4SuqNYQBlOptw'):
     url = 'https://feeds.feedburner.com/arstechnica/science'
 
-    r = requests.get(url)
-    # soup = BeautifulSoup(r, 'xml')
+    # r = requests.get(url)
+    # d = feedparser.parse(r.text)
+    d = feedparser.parse(url, etag=etag)
+    print('### START')
+    if d.status != 304:
+        print(d.feed.title)
+        print(d.etag)
+        print(len(d.entries))
+        print(type(d.entries))
 
-    # Find all the titles in the RSS feed
-    # <title>Some title here</title>
-    titles = re.findall('<title>(.*)</title>', r.text)
-    for i, title in enumerate(titles):
-        print(f'{i}\t{title}')
-
+        for entry in d.entries:
+            print(entry.title)
+            print(f'\t{entry.link}')
+            print(f'\t{entry.description}')
+            print(f'\t{entry.published}')
+            print(f'\t{entry.id}')
+            print(f'\t{entry.tags}\n')
+    
 
 if __name__ == "__main__":
-    with open('test.xml', 'rb') as f:
-        rss = f.read()
-    i = 0
-    tags = []
-    tmp = ''
-    for ch in rss:
-        if chr(ch) == '<':
-            tmp = chr(ch)
-            i += 1
-        elif chr(ch) == ' ':
-            i = 0
-            continue
-        elif i == 1 and chr(ch) == '/':
-            i = 0
-            continue
-        elif i > 0 and chr(ch) == '>':
-            tmp = tmp + chr(ch)
-            tags.append(tmp)
-            i = 0
-            continue
-        else:
-            tmp = tmp + chr(ch)
-            i += 1
-    print(tags)
+    read_rss()
 
 # Basic structure of Ars Technica RSS Feed
 # <rss> is the main tag
