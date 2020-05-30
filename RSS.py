@@ -1,5 +1,15 @@
+import requests
 import feedparser
 from collections import Counter
+from bs4 import BeautifulSoup
+
+def get_article_content(url):
+    url = 'https://arstechnica.com/?p=1678422'
+    r = requests.get(url)
+
+    if r.status_code == 200:
+        soup = BeautifulSoup(r.text, 'html.parser')
+        print(dir(soup.prettify()))
 
 def read_rss(etag='44HV76Xhrz/fXa4SuqNYQBlOptw'):
     url = 'https://feeds.feedburner.com/arstechnica/science'
@@ -24,7 +34,8 @@ def read_rss(etag='44HV76Xhrz/fXa4SuqNYQBlOptw'):
     
 
 if __name__ == "__main__":
-    read_rss()
+    # read_rss()
+    get_article_content('dummy')
 
 # Basic structure of Ars Technica RSS Feed
 # <rss> is the main tag
