@@ -9,7 +9,10 @@ def get_article_content(url):
 
     if r.status_code == 200:
         soup = BeautifulSoup(r.text, 'html.parser')
-        print(dir(soup.prettify()))
+        # print(soup.body.prettify())
+        # soup.find_all('p')
+        clean_text = ''.join(soup.body.findAll(text=True))
+        print(clean_text)
 
 def read_rss(etag='44HV76Xhrz/fXa4SuqNYQBlOptw'):
     url = 'https://feeds.feedburner.com/arstechnica/science'
